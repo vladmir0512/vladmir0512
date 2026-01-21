@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/74562bc2-a0d9-4fa5-ab2f-28b77255a0f5" width="200"/>
 </div>
@@ -8,6 +7,8 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 <img src="https://komarev.com/ghpvc/?vladmir0512&style=flat-square&color=blue" alt=""/>
+
+### Hi there 👋
 
 
 
@@ -26,9 +27,13 @@ I like then you views my works. Thank you~
 ~*Telegram deadline bot* 
 It parse deadlines from calendar on yonote.ru. And notify.~
 
+---
 CHALLENGE "NO CODE NO LIFE"
+---
 
+* [[RU] TELEGRAM CHANNEL ](https://t.me/vjtechdev)
 
+* [Worcflowy](https://workflowy.com/s/d596156d2bc8/fr6dISqO4mJGF5Ij)
 <!--
 **vladmir0512/vladmir0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
