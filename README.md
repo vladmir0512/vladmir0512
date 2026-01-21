@@ -26,6 +26,8 @@ I like then you views my works. Thank you~
 ~*Telegram deadline bot* 
 It parse deadlines from calendar on yonote.ru. And notify.~
 
+CHALLENGE "NO CODE NO LIFE"
+
 
 <!--
 **vladmir0512/vladmir0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
