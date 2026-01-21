@@ -11,14 +11,14 @@
 ### Hi there 👋
 
 
+### :woman_technologist: About Me :
+- :telescope:  I`m Vladimir or VJ, web engeneer based in Russia. I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-I`m Vladimir or VJ, web engeneer based in Russia.
+- :seedling: Exploring Technical Content Writing. I am creating diffrent useful programs for myself and others.
 
-I am creating diffrent useful programs for myself and others.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-If an idea pops into my head, I build some apps).
-
-You can check there my pinned projectS.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VladimirEremenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-eremenko-62aa253a7/)
 
 I like then you views my works. Thank you~
 
