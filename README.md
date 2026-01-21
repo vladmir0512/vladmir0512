@@ -13,8 +13,10 @@ I like then you views my works. Thank you~
 
 
 - 🔭 I’m currently working on ...
-*Telegram deadline bot* 
-It parse deadlines from calendar on yonote.ru. And notify.
+~*Telegram deadline bot* 
+It parse deadlines from calendar on yonote.ru. And notify.~
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladmir0512&theme=dark&background=000000)](https://git.io/streak-stats](http://github-readme-streak-stats.herokuapp.com?user=vladmir0512&theme=dark&background=000000)
+
 <!--
 **vladmir0512/vladmir0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
