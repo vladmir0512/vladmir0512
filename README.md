@@ -29,17 +29,16 @@ I like then you views my works. Thank you~
 - 🔭 I’m currently working on ...
 ~*Telegram deadline bot* 
 It parse deadlines from calendar on yonote.ru. And notify.~
-
+CHALLENGE!!!!!
 ---
 CHALLENGE "NO CODE NO LIFE"
 ---
 
 *  [![Telegram Badge](https://img.shields.io/badge/-[RU]_TELEGRAM_CHANNEL-purple?style=flat&logo=Telegram&logoColor=white)](https://t.me/vjtechdev)
 
-*  [![Workflowy Badge](https://img.shields.io/badge/-Worcflowy-black?style=flat&logo=Telegram&logoColor=white)]([https://t.me/vjtechdev](https://workflowy.com/s/d596156d2bc8/fr6dISqO4mJGF5Ij))
+- [![Youtube Badge](https://img.shields.io/badge/-VJ_Games-red?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@vj_gamess)
 
-
-[![Youtube Badge](https://img.shields.io/badge/-VJ_Games-red?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@vj_gamess)
+- [![Workflowy Badge](https://img.shields.io/badge/-Worcflowy-black?style=flat&logo=Workflowy&logoColor=white)]([https://t.me/vjtechdev](https://workflowy.com/s/d596156d2bc8/fr6dISqO4mJGF5Ij))
 
 <!--
 **vladmir0512/vladmir0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
